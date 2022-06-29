@@ -1,8 +1,10 @@
-## Office 安装教程
+## Office 安装指南
 
 ## 写在前面
 
-
+```markdown
+本文较为详细，因此也提供了简洁版的教程。请先往下阅读。
+```
 
 ## Welcome to GitHub Pages
 
